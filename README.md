@@ -36,4 +36,5 @@ php artisan make:job SendEmail
 # run artisan command
 php artisan queue:work
 
+# production မှာတော့ supervisior လိုဟာမျိုးတွေ သုံးမယ်။
 ```
